@@ -34,7 +34,9 @@
 - **2743. 단어 길이 재기** (Bronze II) `문자열`
 - **[2740. 행렬 곱셈](https://ming-jee.tistory.com/57)** (Bronze I) `수학` `구현`
 - **2475. 검증수** (Bronze V) `사칙연산` `수학` `구현`
+- **[11721. 열 개씩 끊어 출력하기](https://ming-jee.tistory.com/143)** (Bronze II) `구현` `문자열`
 <br></br>
+
 > ## 🥈Silver
 - **2667. 단지번호붙이기** (Silver I) `BFS` `Flood Fill`
 - **1926. 그림** (Silver I) `BFS` `Flood Fill`
@@ -52,13 +54,17 @@
 - **2583. 영역 구하기** (Silver I) `BFS` `Flood Fill`
 - **1929. 소수 구하기** (Silver II) `수학` `정수론` `소수(prime number)` `에라토스테네스의 체`
 - **1676. 팩토리얼 0의 개수** (Silver III) `수학`
-<br></br>   
+- **[11047. 동전 0](https://ming-jee.tistory.com/142)** (Silver II) `그리디(Greedy)`
+- **[11399. ATM](https://ming-jee.tistory.com/144)** (Silver III) `그리디(Greedy)` `정렬`
+<br></br>
+
 > ## 🥇Gold
 - **[10026. 적록색약](https://ming-jee.tistory.com/40)** (Gold V) `BFS` `Flood Fill`
 - **17129. 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유** (Gold V) `BFS` `Flood Fill`
 - **2252. 줄 세우기** (Gold II) `그래프` `위상정렬(Topological Sort)`
 - **2623. 음악프로그램** (Gold II) `그래프` `위상정렬(Topological Sort)`
-<br></br>   
+<br></br>
+
 > ## 🏆Platinum
 <br></br>   
 
