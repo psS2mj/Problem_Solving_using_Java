@@ -34,9 +34,10 @@
 - **2743. 단어 길이 재기** (Bronze II) `문자열`
 - **[2740. 행렬 곱셈](https://ming-jee.tistory.com/57)** (Bronze I) `수학` `구현`
 - **2475. 검증수** (Bronze V) `사칙연산` `수학` `구현`
-- **[11721. 열 개씩 끊어 출력하기](https://ming-jee.tistory.com/143)** (Bronze II) `구현` `문자열`
+- **[11721. 열 개씩 끊어 출력하기](https://ming-jee.tistory.com/143)** (Bronze II) `문자열` `구현`
 - **[2839. 설탕 배달](https://ming-jee.tistory.com/145)** (Bronze I) `수학`
 - **[10808. 알파벳 개수](https://ming-jee.tistory.com/146)** (Bronze II) `문자열` `구현`
+- **2750. 수 정렬하기** (Bronze I) `정렬` `구현`
 <br></br>
 
 > ## 🥈Silver
